@@ -152,3 +152,11 @@
     • Microservices-based application with multiple services
     • Fully monitored and observable application with dashboards
 
+
+# Books
+        "Effective Java" by Joshua Bloch
+        "Clean Code" by Robert C. Martin
+        "Java Concurrency in Practice" by Brian Goetz
+        "Spring in Action" by Craig Walls
+        "Designing Data-Intensive Applications" by Martin Kleppmann
+
